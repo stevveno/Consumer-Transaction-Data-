@@ -1,0 +1,11 @@
+user_id,postedDate,original_date,amount,normalizedPayeeName,reccuring_status,currencyType,description,type,categoryName,original_category,married_status,kidsCount,zipCode,country,state,city,employment_status,annualIncome,credit_score,gender,birth_year
+638,01.01.2024 8:00,01.01.2024 8:00,"1,03",Earned,0,USD,,,Income,Interest Income,Single,,,US,OK,,,,,[redacted],
+741,01.01.2024 8:00,01.01.2024 8:00,75,Avis,0,USD,,,Credit Card Payment,Credit Card Payment,,,,US,,,,,,[redacted],
+7448,01.01.2024 8:00,01.01.2024 8:00,-175,Schwab Bank,0,USD,,TRANSFER,Transfer,Transfer,Married,3,23456,US,VA,Virginia Beach,Retired,135000,Excellent,[redacted],1980
+7448,01.01.2024 8:00,01.01.2024 8:00,175,Schwab Bank,0,USD,,TRANSFER,Transfer,Transfer,Married,3,23456,US,VA,Virginia Beach,Retired,135000,Excellent,[redacted],1980
+7448,01.01.2024 8:00,01.01.2024 8:00,-1699,Microsoft,1,USD,,,Entertainment,Entertainment,Married,3,23456,US,VA,Virginia Beach,Retired,135000,Excellent,[redacted],1980
+7448,01.01.2024 8:00,01.01.2024 8:00,-100,7eleven-fcti,0,USD,,,Auto & Transport,Gas & Fuel,Married,3,23456,US,VA,Virginia Beach,Retired,135000,Excellent,[redacted],1980
+10068,01.01.2024 8:00,01.01.2024 8:00,-1828,Flying J,0,USD,,POINTOFSALE,1006862a29c707b354,Gas & Fuel,Single,1,37656,US,TN,Kingsport,Employed,78000,Good,[redacted],1981
+10068,01.01.2024 8:00,01.01.2024 8:00,-1404,Pilot Van Horn,0,USD,,POINTOFSALE,Auto & Transport,Gas & Fuel,Single,1,37656,US,TN,Kingsport,Employed,78000,Good,[redacted],1981
+10068,01.01.2024 8:00,01.01.2024 8:00,-1404,Pilot Van Horn,0,USD,,POINTOFSALE,Auto & Transport,Gas & Fuel,Single,1,37656,US,TN,Kingsport,Employed,78000,Good,[redacted],1981
+10068,01.01.2024 8:00,01.01.2024 8:00,-1828,Flying J,0,USD,,POINTOFSALE,1006862a29c707b354,Gas & Fuel,Single,1,37656,US,TN,Kingsport,Employed,78000,Good,[redacted],1981
